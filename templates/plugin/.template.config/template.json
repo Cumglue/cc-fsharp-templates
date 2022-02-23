@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Yellowsink",
+  "classifications": [ "Scaffold", "Fable" ],
+  "identity": "Fable.Cumcord.Template",
+  "name": "Cumcord F# plugin",
+  "shortName": "cumcplug",
+  "tags": {
+    "language": "F#",
+    "type": "project"
+  }
+}

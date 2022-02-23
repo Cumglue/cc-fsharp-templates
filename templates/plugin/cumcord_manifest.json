@@ -1,0 +1,7 @@
+{
+  "name": "F# plugin",
+  "description": "A discord plugin in F#",
+  "author": "Your name here",
+  "file": "build/App.js",
+  "license": ""
+}
