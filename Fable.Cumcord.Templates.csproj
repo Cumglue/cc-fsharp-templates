@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0</PackageVersion>
+    <PackageVersion>1.1</PackageVersion>
     <PackageId>Fable.Cumcord.Templates</PackageId>
     <Title>Cumcord F# Templates</Title>
     <Authors>Cumcord Team</Authors>
